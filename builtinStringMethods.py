@@ -4,7 +4,8 @@
 # #2 center(width, fillchar) - Returns a space-padded string with the original string centered to a total of width columns.
 # print(str.center(100, ' '));
 #
-# #3 Count - Counts how many times str occurs in string or in a substring of string if starting index beg and ending index end are given.
+# #3 Count - Counts how many times str occurs in string or in a substring of string if starting index beg and
+# ending index end are given.
 # print(str.count('e')); # 4
 
 #4 encode - Returns encoded string version of string;
